@@ -1,5 +1,6 @@
 Neural_Network_Charity_Analysis
 
+
 The purpose of this project is to use deep-learning neural networks with the TensorFlow platform in Python, to analyze and classify the success of charitable donations.
 
 We used the following methods for the analysis:
